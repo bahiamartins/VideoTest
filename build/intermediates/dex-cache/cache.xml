@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ronaldobahia/.android/build-cache/e38950acc3e536465d3d3e42710c7846cc576705/output/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="58d0010cb4373696cfdc5894c4b23649af58ed18">
+        <dex dex="/Users/ronaldobahia/Android-apps/Videotest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_41815463232e1eaa3e35335de5ffba90803a5811/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ronaldobahia/.android/build-cache/e38950acc3e536465d3d3e42710c7846cc576705/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f3a3189a228a65d03b3ea92a1b58a2b44bc7366e">
+        <dex dex="/Users/ronaldobahia/Android-apps/Videotest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9a0abf7976f33f5c96c5dbd6420c426d578940d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ronaldobahia/Android-apps/Videotest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/ronaldobahia/Android-apps/Videotest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0a748c8c8cb0bc9e503d52e086f020d8408d2d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ronaldobahia/Android-apps/Videotest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed83b6d72579c9336cd1553a820355d820b853ad">
+        <dex dex="/Users/ronaldobahia/Android-apps/Videotest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0cb545c98a7dbf76ee4ec51e6fba402bec275a33/classes.dex" />
+    </item>
+
+</items>
